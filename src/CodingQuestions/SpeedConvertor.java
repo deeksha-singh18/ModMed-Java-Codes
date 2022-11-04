@@ -1,3 +1,5 @@
+package CodingQuestions;
+
 public class SpeedConvertor {
 
     public static long milesPerHour(double kilometersPerHour) {
@@ -15,6 +17,7 @@ public class SpeedConvertor {
         } else {
             long res = milesPerHour(kilometersPerHour);
             System.out.println(kilometersPerHour + " km/h = " + res + " mi/h");
+
         }
 
     }

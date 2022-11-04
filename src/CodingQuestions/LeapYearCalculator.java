@@ -1,3 +1,5 @@
+package CodingQuestions;
+
 public class LeapYearCalculator {
     public static boolean isLeapYear(int year)
     {

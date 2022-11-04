@@ -1,3 +1,5 @@
+package CodingQuestions;
+
 public class BarkingDog {
     public static boolean wakeUp(boolean barking,int hour){
         if(hour<0 || hour>23){
