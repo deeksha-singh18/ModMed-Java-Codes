@@ -1,4 +1,5 @@
 import OOP.Car;
+import OOP.Inheritance.Animal;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +11,9 @@ public class Main {
         obj1.setDoors(20);
 
         System.out.println(obj1.getDoors());
+
+
+
 
 
 
