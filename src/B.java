@@ -1,0 +1,6 @@
+interface B {
+
+    void draw();
+
+
+}
